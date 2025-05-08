@@ -13,3 +13,7 @@ Task 1
 "DURATION"  : 8 WEEKS 
 
 "MENTOR" : NEELA SANTOSH
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/304ea089-f893-4ed8-b7e6-6a46aeb74547)
